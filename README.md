@@ -25,12 +25,12 @@ Sou um estudante apaixonado por tecnologia e ciÃªncia, atualmente cursando **AnÃ
       <br><b>Android Studio</b>
     </td>
     <td align="center" width="80">
-      <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java"/>
-      <br><b>Java</b>
+      <img src="https://kinsta.com/wp-content/uploads/2021/03/HTML-5-Badge-Logo.png" alt="Java"/>
+      <br><b>HTML</b>
     </td>
     <td align="center" width="80">
-      <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python"/>
-      <br><b>Python</b>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUXbDN6MjKqhEQLKobn2Ffg4goxiTe6xptfw&s" alt="Python"/>
+      <br><b>Php</b>
     </td>
     <td align="center" width="80">
       <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript"/>
