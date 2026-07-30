@@ -4,9 +4,9 @@
 
 ### Eu sou **Luis Esteban**
 
-*Estudante de Análise e Desenvolvimento de Sistemas | Aspirante a Pesquisador em Astronomia*
+*Estudante de Análise e Desenvolvimento de Sistemas*
 
----
+
 
 </div>
 
@@ -14,7 +14,7 @@
 
 Sou um estudante apaixonado por tecnologia e ciência, atualmente cursando **Análise e Desenvolvimento de Sistemas** no SENAI. Com uma mentalidade curiosa e determinada, busco constantemente expandir meus conhecimentos e habilidades em programação e desenvolvimento de software.
 
----
+
 
 ## 💻 O que estou aprendendo
 
@@ -39,24 +39,9 @@ Sou um estudante apaixonado por tecnologia e ciência, atualmente cursando **An�
   </tr>
 </table>
 
----
-
-## 🎯 Áreas de Interesse
-
-<div align="center">
-
-| 🔭 | 🎬 | 🧬 |
-|:---:|:---:|:---:|
-| **Astronomia** | **Cinema** | **Biologia** |
-| Fascinado pelo universo e seus mistérios | Apaixonado por narrativas visuais | Interessado em sistemas vivos e evolução |
-
-</div>
-
----
 
 ## 🎓 Meus Objetivos
 
-```
 ┌─────────────────────────────────────────┐
 │  📍 Curto Prazo                          │
 │  • Aprofundar conhecimentos em Android   │
@@ -64,15 +49,8 @@ Sou um estudante apaixonado por tecnologia e ciência, atualmente cursando **An�
 │  • Contribuir em projetos open source   │
 └─────────────────────────────────────────┘
 
-┌─────────────────────────────────────────┐
-│  🎯 Longo Prazo                          │
-│  • Iniciar um estágio em Astronomia     │
-│  • Tornar-me Pesquisador na área        │
-│  • Unir tecnologia com pesquisa          │
-└─────────────────────────────────────────┘
-```
 
----
+
 
 ## 📫 Entre em Contato
 
@@ -84,7 +62,7 @@ Se você compartilha os mesmos interesses ou quer colaborar em projetos, não he
 
 </div>
 
----
+
 
 <div align="center">
 
