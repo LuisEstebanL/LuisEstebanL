@@ -41,7 +41,7 @@ Sou um estudante apaixonado por tecnologia e ciência, atualmente cursando **An�
 
 ---
 
-## 🎯 Áreas de Interesse
+
 
 <div align="center">
 
