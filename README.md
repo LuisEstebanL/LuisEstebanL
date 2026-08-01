@@ -14,6 +14,12 @@
 
 Sou um estudante apaixonado por tecnologia e ciência, atualmente cursando **Análise e Desenvolvimento de Sistemas** no SENAI. Com uma mentalidade curiosa e determinada, busco constantemente expandir meus conhecimentos e habilidades em programação e desenvolvimento de software.
 
+
+## Curiosidades
+
+Eu sei falar e escrever em inglês fluente.
+
+
 ---
 
 ## 💻 O que estou aprendendo
